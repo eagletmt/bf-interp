@@ -5,6 +5,6 @@ License: MIT
 License-file: LICENSE
 
 Executable: bf-interp
-Main-is: bf-interp.hs
-Build-depends: base, mtl
+Main-is: Main.hs
+Build-depends: base, mtl, parsec
 
