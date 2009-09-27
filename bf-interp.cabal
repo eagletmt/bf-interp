@@ -1,0 +1,10 @@
+Name: bf-interp
+Version: 2009.9.27
+Build-type: Simple
+License: MIT
+License-file: LICENSE
+
+Executable: bf-interp
+Main-is: bf-interp.hs
+Build-depends: base, mtl
+
